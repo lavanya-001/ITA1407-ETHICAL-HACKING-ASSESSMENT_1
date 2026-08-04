@@ -1,6 +1,0 @@
-uptime
-date
-mv sample.txt lab.txt
-mkdir Test
-mv lab.txt Test/
-ls Test
