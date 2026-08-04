@@ -1,3 +1,0 @@
-nmap -T2 scanme.nmap.org
-
-nmap -T3 scanme.nmap.org
